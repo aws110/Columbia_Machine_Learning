@@ -3,7 +3,7 @@
 Implementation a K-class Bayes classifier using maximum liklihood
 
 To run code you need to enter:
-`$ python3 hw2_classification.py X_train.csv y_train.csv X_test.csv'
+`$ python3 hw2_classification.py X_train.csv y_train.csv X_test.csv`
 
 The csv files that will be input into the code are formatted as follows:.
 
